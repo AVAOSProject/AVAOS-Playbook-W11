@@ -1,12 +1,8 @@
 <h1 align="center">
-  <a href="[https://github.com/YOUR_USERNAME/AVA-OS](https://github.com/AVAOSProject/AVAOSProject.github.io)" target="_blank">
-    <img src="images/AVAOS_Rec.png" alt="AVA OS" width="400" length="200">
+  <a href="https://github.com/AVAOSProject/AVAOSProject.github.io" target="_blank">
+    <img src="images/AVAOS_Rec.png" alt="AVA OS" width="400">
   </a>
 </h1>
-
-<p align="center">
-
-</p>
 
 <p align="center"><b>AVA OS</b> is a high-performance, refined modification of Windows designed to bridge the gap between extreme optimization and daily usability.</p>
 
@@ -15,6 +11,20 @@
   •
   <a href="https://discord.gg/jCFHBBcE">☎️ Discord</a>
 </p>
+
+---
+
+## 🖥️ Supported Windows Versions
+
+AVA OS is built to support the most stable and modern versions of Windows 10 and 11. Ensure your ISO matches one of the following build numbers before applying the Playbook:
+
+| OS Version | Build Number |
+| :--- | :--- |
+| **Windows 10 21H2** | `19044` |
+| **Windows 10 22H2** | `19045` |
+| **Windows 11 23H2** | `22631` |
+| **Windows 11 24H2** | `26100` |
+| **Windows 11 Insider**| `26200` |
 
 ---
 
@@ -49,8 +59,8 @@ Feel free to use the assets in our `/branding` folder to create your own AVA-the
 ## 💙 Contributors
 A huge thank you to everyone helping make Windows usable again.
 
-<a href="https://github.com/YOUR_USERNAME/AVA-OS/graphs/contributors" target="_blank">
-  <img src="https://contrib.rocks/image?repo=YOUR_USERNAME/AVA-OS&columns=12" alt="Contributors">
+<a href="https://github.com/AVAOSProject/AVAOSProject.github.io/graphs/contributors" target="_blank">
+  <img src="https://contrib.rocks/image?repo=AVAOSProject/AVAOSProject.github.io&columns=12" alt="Contributors">
 </a>
 
 ---
