@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/AVAOSProject/AVAOSProject.github.io" target="_blank">
+  <a href="https://avaosproject.github.io/" target="_blank">
     <img src="images/AVAOS_Rec.png" alt="AVA OS" width="400">
   </a>
 </h1>
