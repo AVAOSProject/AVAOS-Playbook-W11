@@ -40,9 +40,6 @@ AVA goes beyond simple registry tweaks. We optimize process scheduling and memor
 ### 🛡️ User-Centric Security
 We don't believe in "security by removal." AVA provides a toggle-based security model. Want a hardened system? Keep Defender and SmartScreen. Want raw frames? Turn them off. The choice is yours, not the OS's.
 
-### 🌑 Clean Aesthetic
-Inspired by the "Atlas" blue but refined for a modern, dark-mode-first experience. AVA simplifies the UI, removes advertisements from the Start Menu, and provides a distraction-free workspace from the first boot.
-
 ### 🔍 Transparent & Open
 Everything in AVA is auditable. We utilize the Playbook system to ensure that every change made to your system is visible in plain text. No mystery binaries, no hidden backdoors.
 
